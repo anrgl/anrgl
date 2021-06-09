@@ -1,4 +1,16 @@
-### Hi there 👋
+### 👋 Приветствую в репозитории Java разработчика 
+## Галимов Айнур Ильдарович
+### Стек применяемых технологий: Java Core, Maven, JDBC, PostgreSQL, HTML5, CSS3, JS, JQuery, Servlet&JSP, Hibernate, Spring
+
+#### Проекты:
+#### ⚡ [Spring Boot Форум](https://github.com/anrgl/job4j_forum) - Spring Boot web-приложение. Форум с регистрацией и авторизацией(Spring Boot, Spring Security, Hibernate)
+#### ⚡ [Spring Car Accident](https://github.com/anrgl/job4j_car_accident) - Spring MVC web-приложение (Spring MVC, Spring Data, Spring Security, Hibernate)
+#### ⚡ [TODO-list](https://github.com/anrgl/job4j_todo) - Работа через REST API. (Hibernate, AJAX, PostgreSQL, Servlet, JSP, Tomcat)
+#### ⚡ [Dreamjob](https://github.com/anrgl/job4j_dreamjob) - Работа мечты. Сайт по поиску вакансий. (Servlets, PostgreSQL, JUnit4, Log4j, JSON)
+#### ⚡ [Job grabber](https://github.com/anrgl/job4j_grabber) - Грабер вакансий с форума sql.ru (Java, PostgreSQl, jsoup, log4j, slf4j)
+
+
+
 
 <!--
 **anrgl/anrgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
