@@ -1,5 +1,15 @@
 ### 👋 Приветствую в репозитории разработчика 
 ## Галимов Айнур Ильдарович
+## Ruby on Rails
+### Стек применяемых технологий: Ruby, Ruby on Rails, RSpec, PostgreSQL, HTML5, CSS3, Bootstrap 5, JS, JQuery, Ajax
+
+#### Проекты:
+#### ⚡ [Gender Determiner](https://github.com/anrgl/gender-determiner) - Работа с внешним API сервиса Dadata (RoR, Devise, Pundit, Rest-client, Slim)
+##### 🌱 [heroku](https://shielded-inlet-23394.herokuapp.com/) - запустить приложение на heroku
+
+#### [Другие Rails проекты](https://github.com/anrgl?tab=repositories&q=&type=&language=ruby)
+
+## Java
 ### Стек применяемых технологий: Java Core, Maven, JDBC, PostgreSQL, HTML5, CSS3, JS, JQuery, Servlet&JSP, Hibernate, Spring
 
 #### Проекты:
