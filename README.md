@@ -6,6 +6,7 @@
 #### Проекты:
 #### ⚡ [Gender Determiner](https://github.com/anrgl/gender-determiner) - Работа с внешним API сервиса Dadata (RoR, Devise, Pundit, Rest-client, Slim)
 ##### 🌱 [heroku](https://shielded-inlet-23394.herokuapp.com/) - запустить приложение на heroku
+#### ⚡ [Task Manager](https://github.com/anrgl/TaskManager) - Менеджер задач по типу Trello (работа ещё продолжается)
 
 #### [Другие Rails проекты](https://github.com/anrgl?tab=repositories&q=&type=&language=ruby)
 
